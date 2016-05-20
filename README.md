@@ -29,7 +29,10 @@ Styles are directly from the [Highlight.js] NPM package.
 
 ## Changelog
 
-```
+```markdown
+v1.0.0 (2016-05-23)
+    Updated for eyeglass 0.8.3
+
 v0.0.1 (2016-01-13)
     Highlight.js themes from version 9.1.0
     Initial commit and npm publish

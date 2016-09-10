@@ -1,6 +1,6 @@
 {
   "name": "eyeglass-highlightjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sass-eyeglass npm module containing Highlight.js themes for importing.",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/davidosomething/eyeglass-highlightjs#readme",
@@ -27,9 +27,12 @@
   "eyeglass": {
     "sassDir": "styles",
     "name": "highlightjs-themes",
-    "needs": "^0.8.3"
+    "needs": ">=0.8.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eyeglass": "^1.0.0"
   }
 }
